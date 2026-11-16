@@ -22,6 +22,3 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
-
-# Tutorial material (not part of the app)
-JobPortal+React+UI+App+setup+guide.pdf
